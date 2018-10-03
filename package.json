@@ -1,0 +1,26 @@
+{
+  "name": "lab8",
+  "version": "1.0.0",
+  "description": "Hugbunadarfr lab 8",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallband/hugb_lab8.git"
+  },
+  "keywords": [
+    "Reykjavik",
+    "university"
+  ],
+  "author": "ES",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallband/hugb_lab8/issues"
+  },
+  "homepage": "https://github.com/wallband/hugb_lab8#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
